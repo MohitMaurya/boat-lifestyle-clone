@@ -26,7 +26,7 @@ All the image and icon links have been taken from the main website ( https://str
 
 - Landing Page (Home Page):
 
-![Home Page](https://user-images.githubusercontent.com/35700009/138110802-fca0ecb0-968b-40ad-9b08-581a423262f8.png))
+![Home Page](https://user-images.githubusercontent.com/35700009/138110802-fca0ecb0-968b-40ad-9b08-581a423262f8.png)
 
 - Champions Page:
 
